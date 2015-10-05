@@ -1,2 +1,0 @@
-# gmailAutomation
-Gmail Automation Sample

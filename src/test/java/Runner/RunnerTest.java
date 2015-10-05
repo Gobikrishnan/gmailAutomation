@@ -1,4 +1,4 @@
-package LoadGmail;
+package Runner;
 
 import org.junit.runner.RunWith;
 //import org.testng.annotations.Test;
